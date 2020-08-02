@@ -50,4 +50,10 @@ Update on: 8 August 2020
 * system utils
 * https://docs.microsoft.com/ja-jp/sysinternals/
 
+### Vivaldi
+
+* Windows, Mac, Linux
+* web browser
+* https://vivaldi.com/ja/download/
+
 ---------------------------------------
