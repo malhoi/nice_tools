@@ -1,22 +1,53 @@
 # Nice tools
 
+Update on: 8 August 2020
+
 ---------------------------------------
 
-## Windows
+## Links
 
-#### Ctrl2Cap
+### DeepL
 
+* accurate translation
+* https://www.deepl.com/ja/translator
+
+### Google Translate
+
+* can translate an entire web page (even if go to another page)
+* https://translate.google.co.jp
+
+---------------------------------------
+
+## Apps or Drivers
+
+### Ctrl2Cap
+
+* Windows
+* convert {caps-lock} into {control}
 * https://docs.microsoft.com/en-us/sysinternals/downloads/ctrl2cap
-* convert caps-lock into control
 
 ### Everything
 
+* Windows
+* seach files quickly  (on file system)
 * https://www.voidtools.com
-* quick file searching (indexing on file system)
 
-###  RelaxTools Addin for Excel
+### Geek Uninstaller
 
-* https://software.opensquare.net/relaxtools/downld/
+* Windows
+* help to uninstall apps
+* https://geekuninstaller.com
+
+### RelaxTools Addin for Excel
+
 * Excel macro tools
+* for SIer engineers (sorrowful)
+* https://software.opensquare.net/relaxtools/downld/
+
+### Sysinternals
+
+* Windows
+* system utils
+* https://docs.microsoft.com/ja-jp/sysinternals/
 
 ---------------------------------------
