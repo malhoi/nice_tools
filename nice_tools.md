@@ -1,8 +1,6 @@
 # Nice tools
 
-Update on: 8 August 2020
-
----------------------------------------
+Update on: 9 August 2020
 
 ## Links
 
@@ -16,9 +14,13 @@ Update on: 8 August 2020
 * can translate an entire web page (even if go to another page)
 * https://translate.google.co.jp
 
----------------------------------------
-
 ## Apps or Drivers
+
+### CintaNotes
+
+* Windwos
+* "Smart Note-Taker" by CintaNotes
+* http://cintanotes.com
 
 ### Ctrl2Cap
 
@@ -38,6 +40,12 @@ Update on: 8 August 2020
 * help to uninstall apps
 * https://geekuninstaller.com
 
+### Rapture
+
+* Windwos
+* cut out the screen and hold it at the forefront
+* http://www.knystudio.net/rapture.html
+
 ### RelaxTools Addin for Excel
 
 * Excel macro tools
@@ -55,5 +63,3 @@ Update on: 8 August 2020
 * Windows, Mac, Linux
 * web browser
 * https://vivaldi.com/ja/download/
-
----------------------------------------
