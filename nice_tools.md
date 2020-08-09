@@ -18,7 +18,7 @@ Update on: 9 August 2020
 
 ### CintaNotes
 
-* Windwos
+* Windows
 * "Smart Note-Taker" by CintaNotes
 * http://cintanotes.com
 
@@ -40,9 +40,15 @@ Update on: 9 August 2020
 * help to uninstall apps
 * https://geekuninstaller.com
 
+### Honeyview
+
+* Windows
+* photo viewer
+* https://dl.bandisoft.com/honeyview/HONEYVIEW-SETUP.EXE
+
 ### Rapture
 
-* Windwos
+* Windows
 * cut out the screen and hold it at the forefront
 * http://www.knystudio.net/rapture.html
 
@@ -52,10 +58,28 @@ Update on: 9 August 2020
 * for SIer engineers (sorrowful)
 * https://software.opensquare.net/relaxtools/downld/
 
+### Steel Bank Common Lisp (SBCL)
+
+* basically x86
+* Common Lisp compiler
+* http://www.sbcl.org
+
+### Spacemacs
+
+* GNU Emacs
+* configuration framework for GNU Emacs
+* https://www.spacemacs.org
+
+### Sumatra PDF
+
+* Windows
+* PDF viewer
+* https://www.sumatrapdfreader.org/free-pdf-reader.html
+
 ### Sysinternals
 
 * Windows
-* system utils
+* Windows system utils
 * https://docs.microsoft.com/ja-jp/sysinternals/
 
 ### Vivaldi
