@@ -1,6 +1,6 @@
 # Nice tools
 
-Update on: 9 August 2020
+Update on: 24 August 2020
 
 ## Links
 
@@ -21,6 +21,12 @@ Update on: 9 August 2020
 * Windows
 * "Smart Note-Taker" by CintaNotes
 * http://cintanotes.com
+
+### Chocolatey
+
+* Windows
+* package manager for Windows
+* https://chocolatey.org
 
 ### Ctrl2Cap
 
@@ -46,6 +52,12 @@ Update on: 9 August 2020
 * photo viewer
 * https://dl.bandisoft.com/honeyview/HONEYVIEW-SETUP.EXE
 
+### JTrim
+
+* Windows
+* photo retouching
+* http://www.woodybells.com/jtrim.html
+
 ### Rapture
 
 * Windows
@@ -60,7 +72,7 @@ Update on: 9 August 2020
 
 ### Steel Bank Common Lisp (SBCL)
 
-* basically x86
+* x86, AMD64
 * Common Lisp compiler
 * http://www.sbcl.org
 
